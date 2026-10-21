@@ -2,6 +2,7 @@ import asyncio
 from bs4 import BeautifulSoup
 import httpx
 
+# URL Target Utama
 BASE_URL = "https://nontontv.online"
 LIVETV_URL = f"{BASE_URL}/livetv/"
 
@@ -18,30 +19,33 @@ async def get_channel_list():
 
   async with httpx.AsyncClient(headers=headers, follow_redirects=True) as client:
     print(f"[*] Mengakses daftar channel dari: {LIVETV_URL}")
-    response = await client.get(LIVETV_URL)
+    try:
+      response = await client.get(LIVETV_URL)
+      if response.status_code != 200:
+        print(f"[!] Gagal mengambil data. Status code: {response.status_code}")
+        return []
 
-    if response.status_code != 200:
-      print(f"[!] Gagal mengambil data. Status code: {response.status_code}")
+      soup = BeautifulSoup(response.text, "html.parser")
+      channels = []
+
+      # Cari elemen tautan channel
+      for el in soup.find_all("a", href=True):
+        href = el.get("href")
+        title = el.get_text(strip=True)
+
+        if href and ("/tv/" in href or "/watch/" in href or "stream" in href):
+          full_url = href if href.startswith("http") else f"{BASE_URL}{href}"
+          if title and {"title": title, "url": full_url} not in channels:
+            channels.append({"title": title, "url": full_url})
+
+      return channels
+    except Exception as e:
+      print(f"[!] Error saat mengambil daftar channel: {e}")
       return []
-
-    soup = BeautifulSoup(response.text, "html.parser")
-    channels = []
-
-    # Cari elemen tautan channel (sesuaikan dengan struktur situs target)
-    for el in soup.find_all("a", href=True):
-      href = el.get("href")
-      title = el.get_text(strip=True)
-
-      if href and ("/tv/" in href or "/watch/" in href or "stream" in href):
-        full_url = href if href.startswith("http") else f"{BASE_URL}{href}"
-        if title and {"title": title, "url": full_url} not in channels:
-          channels.append({"title": title, "url": full_url})
-
-    return channels
 
 
 async def extract_stream_url(channel_url, title):
-  """Fungsi untuk memproses dan mengekstrak tautan stream (.m3u8/embed) dari halaman detail channel"""
+  """Fungsi untuk memproses dan mengekstrak tautan stream/iframe dari halaman detail channel"""
   headers = {
       "User-Agent": (
           "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -56,15 +60,12 @@ async def extract_stream_url(channel_url, title):
       if response.status_code != 200:
         return None
 
-      # Parse halaman detail untuk mencari iframe atau link m3u8 di dalamnya
       soup = BeautifulSoup(response.text, "html.parser")
 
-      # Contoh pencarian iframe player atau sumber video
+      # Mencari iframe player atau sumber video di halaman detail
       iframe = soup.find("iframe")
       if iframe and iframe.get("src"):
         return iframe.get("src")
-
-      # Atau Anda bisa menambahkan logika regex/pencarian teks .m3u8 di sini jika ada
 
     except Exception as e:
       print(f"[!] Error saat memproses {title}: {e}")
@@ -73,7 +74,7 @@ async def extract_stream_url(channel_url, title):
 
 
 async def main():
-  print("Mengambil daftar siaran Live TV...")
+  print("Mengambil data siaran Live TV...")
   channels = await get_channel_list()
 
   if not channels:
@@ -85,7 +86,7 @@ async def main():
       " tautan...\n"
   )
 
-  # Ambil contoh 5 channel pertama (bisa diubah sesuai kebutuhan)
+  # Memproses 5 channel pertama sebagai contoh uji coba
   for i, ch in enumerate(channels[:5], start=1):
     title = ch["title"]
     channel_url = ch["url"]
