@@ -1,11 +1,11 @@
 import httpx
 
-TAG = "CUBMU"
+TAG = "CUBMU-INDONESIA"
 
 
 async def scrape():
-  # Menggunakan tautan sumber publik atau direktori yang menyediakan playlist CubMu
-  url = "https://raw.githubusercontent.com/apistech/iptv/main/cubmu.m3u"  # Sesuaikan dengan URL sumber CubMu yang valid
+  # Sumber data TV Nasional Indonesia yang aktif
+  url = "https://iptv-org.github.io/iptv/countries/id.m3u"
   results = []
 
   headers = {
@@ -30,13 +30,18 @@ async def scrape():
           if "," in line:
             current_name = line.split(",")[-1].strip()
         elif line and not line.startswith("#") and current_name:
-          results.append({
-              "name": f"CubMu - {current_name}",
-              "url": line,
-              "tag": TAG,
-          })
+          # Ambil saluran TV populer Indonesia
+          if any(
+              net in current_name.lower()
+              for net in ["trans", "tv", "rcti", "sctv", "indosiar", "metro"]
+          ):
+            results.append({
+                "name": f"CubMu - {current_name}",
+                "url": line,
+                "tag": TAG,
+            })
           current_name = None
     except Exception as e:
-      print(f"Error scraping CubMu: {e}")
+      print(f"Error: {e}")
 
   return results
