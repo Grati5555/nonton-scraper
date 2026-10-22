@@ -5,6 +5,7 @@ import httpx
 # URL Target Utama
 BASE_URL = "https://nontontv.online"
 LIVETV_URL = f"{BASE_URL}/livetv/"
+OUTPUT_FILE = "nonton_playlist.m3u"
 
 
 async def get_channel_list():
@@ -82,24 +83,38 @@ async def main():
     return
 
   print(
-      f"[*] Berhasil mendapatkan {len(channels)} channel. Memproses"
-      " tautan...\n"
+      f"[*] Berhasil mendapatkan {len(channels)} channel. Memproses dan"
+      f" membuat file {OUTPUT_FILE}...\n"
   )
 
-  # Memproses 5 channel pertama sebagai contoh uji coba
-  for i, ch in enumerate(channels[:5], start=1):
-    title = ch["title"]
-    channel_url = ch["url"]
+  # Membuka file m3u untuk ditulis format IPTV
+  with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    # Header standar wajib untuk file M3U IPTV
+    f.write("#EXTM3U\n")
 
-    print(f"[{i}] Memproses: {title}")
-    print(f"    URL Halaman : {channel_url}")
+    # Proses semua channel yang ditemukan (bisa dibatasi dengan [:10] jika ingin tes beberapa dulu)
+    for i, ch in enumerate(channels, start=1):
+      title = ch["title"]
+      channel_url = ch["url"]
 
-    stream_url = await extract_stream_url(channel_url, title)
+      print(f"[{i}] Memproses: {title}")
+      stream_url = await extract_stream_url(channel_url, title)
 
-    if stream_url:
-      print(f"-> Berhasil mendapatkan link stream: {stream_url}\n")
-    else:
-      print("-> Gagal mendapatkan link stream\n")
+      if stream_url:
+        print(f"    -> Berhasil: {stream_url}")
+        # Menulis format baris IPTV M3U
+        f.write(
+            f'#EXTINF:-1 tvg-id="" tvg-name="{title}"'
+            f' group-title="Live TV",{title}\n'
+        )
+        f.write(f"{stream_url}\n")
+      else:
+        print("    -> Gagal mendapatkan link stream")
+
+  print(
+      f"\n[+] Selesai! File playlist berhasil disimpan dengan nama:"
+      f" {OUTPUT_FILE}"
+  )
 
 
 if __name__ == "__main__":
