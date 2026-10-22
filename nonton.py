@@ -7,7 +7,7 @@ LIVETV_URL = f"{BASE_URL}/livetv/"
 OUTPUT_FILE = "nonton_playlist.m3u"
 
 
-async def get_channel_list():
+async def main():
   headers = {
       "User-Agent": (
           "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -17,84 +17,34 @@ async def get_channel_list():
   }
 
   async with httpx.AsyncClient(headers=headers, follow_redirects=True) as client:
-    print(f"[*] Mengakses daftar channel dari: {LIVETV_URL}")
-    try:
-      response = await client.get(LIVETV_URL)
-      print(f"[*] Status Code halaman utama: {response.status_code}")
+    print(f"[*] Mengakses: {LIVETV_URL}")
+    response = await client.get(LIVETV_URL)
+    print(f"[*] Status Code: {response.status_code}")
 
-      if response.status_code != 200:
-        return []
-
+    if response.status_code == 200:
       soup = BeautifulSoup(response.text, "html.parser")
-      channels = []
 
-      for el in soup.find_all("a", href=True):
-        href = el.get("href")
-        title = el.get_text(strip=True)
+      # Cetak beberapa contoh link yang ada di halaman untuk dianalisis
+      links = soup.find_all("a", href=True)
+      print(f"[*] Total tag <a> ditemukan: {len(links)}")
 
-        if href and ("/tv/" in href or "/watch/" in href or "stream" in href):
-          full_url = href if href.startswith("http") else f"{BASE_URL}{href}"
-          if title and {"title": title, "url": full_url} not in channels:
-            channels.append({"title": title, "url": full_url})
+      with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        f.write("#EXTM3U\n")
 
-      print(f"[*] Ditemukan {len(channels)} channel.")
-      return channels
-    except Exception as e:
-      print(f"[!] Error saat mengambil daftar channel: {e}")
-      return []
+        for el in links[:30]:  # Cek 30 link pertama
+          href = el.get("href")
+          text = el.get_text(strip=True)
+          print(f"Link: {href} | Teks: {text}")
 
-
-async def extract_stream_url(channel_url, title):
-  headers = {
-      "User-Agent": (
-          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-          "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-      ),
-      "Referer": LIVETV_URL,
-  }
-
-  async with httpx.AsyncClient(headers=headers, follow_redirects=True) as client:
-    try:
-      response = await client.get(channel_url)
-      if response.status_code != 200:
-        return None
-
-      soup = BeautifulSoup(response.text, "html.parser")
-      iframe = soup.find("iframe")
-      if iframe and iframe.get("src"):
-        return iframe.get("src")
-    except Exception as e:
-      print(f"[!] Error saat memproses {title}: {e}")
-
-  return None
-
-
-async def main():
-  channels = await get_channel_list()
-
-  # Buat file kosong terlebih dahulu agar git add tidak error jika list kosong
-  with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-    f.write("#EXTM3U\n")
-
-    if channels:
-      for i, ch in enumerate(channels, start=1):
-        title = ch["title"]
-        channel_url = ch["url"]
-
-        print(f"[{i}] Memproses: {title}")
-        stream_url = await extract_stream_url(channel_url, title)
-
-        if stream_url:
-          print(f"    -> Berhasil: {stream_url}")
-          f.write(
-              f'#EXTINF:-1 tvg-id="" tvg-name="{title}"'
-              f' group-title="Live TV",{title}\n'
-          )
-          f.write(f"{stream_url}\n")
-        else:
-          print("    -> Gagal mendapatkan link stream")
-    else:
-      print("[!] Tidak ada channel yang berhasil di-scrape.")
+          # Masukkan sementara ke m3u jika mengandung pola tertentu
+          if href and ("http" in href or "/" in href):
+            full_url = href if href.startswith("http") else f"{BASE_URL}{href}"
+            if text:
+              f.write(
+                  f'#EXTINF:-1 tvg-id="" tvg-name="{text}"'
+                  f' group-title="Live TV",{text}\n'
+              )
+              f.write(f"{full_url}\n")
 
 
 if __name__ == "__main__":
