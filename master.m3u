@@ -291,3 +291,355 @@ https://play.fsa-stream.my.id/hls/siaran.m3u8
 https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CubMu - VTV (Indonesia) HD (1080p)" group-title="CUBMU-INDONESIA",CubMu - VTV (Indonesia) HD (1080p)
 http://ikitv.sqn.at:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFBTV Kupang (1080p) [Not 24/7]" group-title="ID-OFFICIAL",AFBTV Kupang (1080p) [Not 24/7]
+https://afbtv.siar.us/live/afbtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ahsan TV" group-title="ID-OFFICIAL",Ahsan TV
+https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ajwa TV (1080p)" group-title="ID-OFFICIAL",Ajwa TV (1080p)
+http://ikitv.sqn.at:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AKTV (1080p) [Not 24/7]" group-title="ID-OFFICIAL",AKTV (1080p) [Not 24/7]
+https://akativi.siar.us/live/akativi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Wafa Tarim (720p)" group-title="ID-OFFICIAL",Al Wafa Tarim (720p)
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al-Bahjah TV (1080p)" group-title="ID-OFFICIAL",Al-Bahjah TV (1080p)
+http://202.150.161.117:8000/play/AlBahjahTV
+#EXTINF:-1 tvg-id="" tvg-name="Al-Iman TV (Indonesia) (720p)" group-title="ID-OFFICIAL",Al-Iman TV (Indonesia) (720p)
+https://tv.aliman.id/aliman/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Angel TV Indonesia (720p)" group-title="ID-OFFICIAL",Angel TV Indonesia (720p)
+https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANTV (Indonesia) (720p)" group-title="ID-OFFICIAL",ANTV (Indonesia) (720p)
+http://103.58.160.157:8278/720-ANTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ashiil TV (480p)" group-title="ID-OFFICIAL",Ashiil TV (480p)
+https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astha TV (1080p)" group-title="ID-OFFICIAL",Astha TV (1080p)
+https://hgmtv.com:2020/hls/asthalive/asthalive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Blitar TV (720p)" group-title="ID-OFFICIAL",Astro Blitar TV (720p)
+https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Atambua TV (720p)" group-title="ID-OFFICIAL",Atambua TV (720p)
+http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Balikpapan TV (720p)" group-title="ID-OFFICIAL",Balikpapan TV (720p)
+http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bandung TV (360p)" group-title="ID-OFFICIAL",Bandung TV (360p)
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Banjar TV (720p) [Not 24/7]" group-title="ID-OFFICIAL",Banjar TV (720p) [Not 24/7]
+https://banjartv.siar.us/banjartv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Banten TV (720p) [Not 24/7]" group-title="ID-OFFICIAL",Banten TV (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Batam TV (480p) [Not 24/7]" group-title="ID-OFFICIAL",Batam TV (480p) [Not 24/7]
+http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeritaSatu (1080p)" group-title="ID-OFFICIAL",BeritaSatu (1080p)
+https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu/abr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Biznet Adventure (1080p)" group-title="ID-OFFICIAL",Biznet Adventure (1080p)
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Biznet Kids (1080p)" group-title="ID-OFFICIAL",Biznet Kids (1080p)
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Biznet Lifestyle (1080p)" group-title="ID-OFFICIAL",Biznet Lifestyle (1080p)
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BMS TV (720p) [Not 24/7]" group-title="ID-OFFICIAL",BMS TV (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BN Channel (1080p)" group-title="ID-OFFICIAL",BN Channel (1080p)
+http://ikitv.sqn.at:8000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BRTV (Indonesia) (720p)" group-title="ID-OFFICIAL",BRTV (Indonesia) (720p)
+https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV (Indonesia) (1080p)" group-title="ID-OFFICIAL",BTV (Indonesia) (1080p)
+https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bungo TV (480p) [Not 24/7]" group-title="ID-OFFICIAL",Bungo TV (480p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Caruban TV (1080p)" group-title="ID-OFFICIAL",Caruban TV (1080p)
+https://stream.carubantv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Celebes TV [Not 24/7]" group-title="ID-OFFICIAL",Celebes TV [Not 24/7]
+https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel Jowo [Geo-blocked]" group-title="ID-OFFICIAL",Channel Jowo [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h77/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia" group-title="ID-OFFICIAL",CNBC Indonesia
+https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" group-title="ID-OFFICIAL",CNN Indonesia
+https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAAI TV" group-title="ID-OFFICIAL",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Davika TV (480p)" group-title="ID-OFFICIAL",Davika TV (480p)
+https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dens Food Channel [Not 24/7]" group-title="ID-OFFICIAL",Dens Food Channel [Not 24/7]
+https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dens Knowledge [Geo-blocked]" group-title="ID-OFFICIAL",Dens Knowledge [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dens Life & Style [Geo-blocked]" group-title="ID-OFFICIAL",Dens Life & Style [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dens Play [Geo-blocked]" group-title="ID-OFFICIAL",Dens Play [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h225/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dens ShowBiz [Geo-blocked]" group-title="ID-OFFICIAL",Dens ShowBiz [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dhamma TV (720p) [Not 24/7]" group-title="ID-OFFICIAL",Dhamma TV (720p) [Not 24/7]
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dhoho TV (720p)" group-title="ID-OFFICIAL",Dhoho TV (720p)
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DMI TV (576i)" group-title="ID-OFFICIAL",DMI TV (576i)
+https://tvstreamcast.com/tawaftv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="dTVi" group-title="ID-OFFICIAL",dTVi
+https://e.siar.us/live/dtvi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Duta TV (360p) [Not 24/7]" group-title="ID-OFFICIAL",Duta TV (360p) [Not 24/7]
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Efarina TV (720p)" group-title="ID-OFFICIAL",Efarina TV (720p)
+https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fajar TV (720p) [Not 24/7]" group-title="ID-OFFICIAL",Fajar TV (720p) [Not 24/7]
+http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ficom Channel (720p)" group-title="ID-OFFICIAL",Ficom Channel (720p)
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FTV (Taiwan) (720p) [Not 24/7]" group-title="ID-OFFICIAL",FTV (Taiwan) (720p) [Not 24/7]
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 tvg-id="" tvg-name="Garuda TV (1080p)" group-title="ID-OFFICIAL",Garuda TV (1080p)
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Groovia Kanal (576p)" group-title="ID-OFFICIAL",Groovia Kanal (576p)
+https://gist.githubusercontent.com/iptvonlinetv/02d209207082846012c15305f7471c55/raw/4439b54b986e696e6fcfba7a53380d85b27bbbc1/udp450.500.723:6050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Groovia Kids (576p)" group-title="ID-OFFICIAL",Groovia Kids (576p)
+https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GTV (Indonesia) HD (1080p)" group-title="ID-OFFICIAL",GTV (Indonesia) HD (1080p)
+http://202.150.172.59/GTVHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Huma Betang TV (720p) [Not 24/7]" group-title="ID-OFFICIAL",Huma Betang TV (720p) [Not 24/7]
+https://v3.siar.us/humabetangtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="I Am Channel (576p)" group-title="ID-OFFICIAL",I Am Channel (576p)
+https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Indonesiana.TV (720p)" group-title="ID-OFFICIAL",Indonesiana.TV (720p)
+https://tvstreamcast.com/indonesiana.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar HD (1080p)" group-title="ID-OFFICIAL",Indosiar HD (1080p)
+http://202.150.172.59/Indosiar/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="iNews HD (720p)" group-title="ID-OFFICIAL",iNews HD (720p)
+https://mncmedia.malingtv.workers.dev/inews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jak TV [Geo-blocked]" group-title="ID-OFFICIAL",Jak TV [Geo-blocked]
+https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jambi TV" group-title="ID-OFFICIAL",Jambi TV
+https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jawa Pos TV Jakarta (720p)" group-title="ID-OFFICIAL",Jawa Pos TV Jakarta (720p)
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jek TV (720p) [Not 24/7]" group-title="ID-OFFICIAL",Jek TV (720p) [Not 24/7]
+http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jogja Istimewa TV (720p)" group-title="ID-OFFICIAL",Jogja Istimewa TV (720p)
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jogja TV (720p) [Not 24/7]" group-title="ID-OFFICIAL",Jogja TV (720p) [Not 24/7]
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JTV (720p)" group-title="ID-OFFICIAL",JTV (720p)
+http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JTV Kediri (1080p) [Not 24/7]" group-title="ID-OFFICIAL",JTV Kediri (1080p) [Not 24/7]
+http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JTV Madiun" group-title="ID-OFFICIAL",JTV Madiun
+http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JTV Madura (480p) [Not 24/7]" group-title="ID-OFFICIAL",JTV Madura (480p) [Not 24/7]
+http://122.248.43.242:1935/JTVMADURA/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JTV Malang" group-title="ID-OFFICIAL",JTV Malang
+http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kawanua TV (720p)" group-title="ID-OFFICIAL",Kawanua TV (720p)
+http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kids TV" group-title="ID-OFFICIAL",Kids TV
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kilisuci TV" group-title="ID-OFFICIAL",Kilisuci TV
+https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kompas TV [Geo-blocked]" group-title="ID-OFFICIAL",Kompas TV [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KTV (Indonesia) (720p)" group-title="ID-OFFICIAL",KTV (Indonesia) (720p)
+https://flv.intechmedia.net/live/ch118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lingkar TV" group-title="ID-OFFICIAL",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Madani TV (720p)" group-title="ID-OFFICIAL",Madani TV (720p)
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Madu TV (1080p) [Not 24/7]" group-title="ID-OFFICIAL",Madu TV (1080p) [Not 24/7]
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Magna Channel (1080p)" group-title="ID-OFFICIAL",Magna Channel (1080p)
+http://202.150.172.59/MagnaChannel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Matrix TV Yogyakarta (720p)" group-title="ID-OFFICIAL",Matrix TV Yogyakarta (720p)
+https://stream.matrixtv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBG TV (1080p)" group-title="ID-OFFICIAL",MBG TV (1080p)
+https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MDTV (1080p)" group-title="ID-OFFICIAL",MDTV (1080p)
+https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Metro TV (Indonesia)" group-title="ID-OFFICIAL",Metro TV (Indonesia)
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MGI TV (720p) [Geo-blocked]" group-title="ID-OFFICIAL",MGI TV (720p) [Geo-blocked]
+https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MGSTV (360p) [Not 24/7]" group-title="ID-OFFICIAL",MGSTV (360p) [Not 24/7]
+https://mgstv.siar.us/live/mgstv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Moji [Geo-blocked]" group-title="ID-OFFICIAL",Moji [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MQTV (720p) [Not 24/7]" group-title="ID-OFFICIAL",MQTV (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Information Channel (720p)" group-title="ID-OFFICIAL",Music Information Channel (720p)
+https://mic.siar.us/mic/live/mic.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My Cinema [Geo-blocked]" group-title="ID-OFFICIAL",My Cinema [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My Family [Geo-blocked]" group-title="ID-OFFICIAL",My Family [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My Kidz (720p)" group-title="ID-OFFICIAL",My Kidz (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Naajiya TV (720p)" group-title="ID-OFFICIAL",Naajiya TV (720p)
+https://www.naajiyatv.com/live/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nabawi TV (720p)" group-title="ID-OFFICIAL",Nabawi TV (720p)
+http://202.150.161.117:8000/play/NabawiTV
+#EXTINF:-1 tvg-id="" tvg-name="Nusantara TV (1080p)" group-title="ID-OFFICIAL",Nusantara TV (1080p)
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Online TV Nusantara (720p) [Not 24/7]" group-title="ID-OFFICIAL",Online TV Nusantara (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Padang TV (720p) [Not 24/7]" group-title="ID-OFFICIAL",Padang TV (720p) [Not 24/7]
+http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PKTV (480p)" group-title="ID-OFFICIAL",PKTV (480p)
+https://streaming.id18.tunnel.my.id/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PONTV (720p)" group-title="ID-OFFICIAL",PONTV (720p)
+http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Puja TV Aceh (1080p) [Not 24/7]" group-title="ID-OFFICIAL",Puja TV Aceh (1080p) [Not 24/7]
+https://pujatv.siar.us/live/pujatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radar Lampung TV (480p)" group-title="ID-OFFICIAL",Radar Lampung TV (480p)
+https://www.streaming.radartv.co.id/hls/test.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radar Tasikmalaya TV (720p) [Not 24/7]" group-title="ID-OFFICIAL",Radar Tasikmalaya TV (720p) [Not 24/7]
+https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RBTV Jogja (1080p) [Not 24/7]" group-title="ID-OFFICIAL",RBTV Jogja (1080p) [Not 24/7]
+https://official.rbtvjogja.tv/live/mychannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCTI HD (1080p)" group-title="ID-OFFICIAL",RCTI HD (1080p)
+http://202.150.172.59/RCTIHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCTV (Indonesia) (720p) [Not 24/7]" group-title="ID-OFFICIAL",RCTV (Indonesia) (720p) [Not 24/7]
+https://v10.siar.us/rctv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Riau TV (1080p) [Not 24/7]" group-title="ID-OFFICIAL",Riau TV (1080p) [Not 24/7]
+http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rinjani TV" group-title="ID-OFFICIAL",Rinjani TV
+https://rinjanitv.cloud/hls/tvkabel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rodja TV (720p)" group-title="ID-OFFICIAL",Rodja TV (720p)
+https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RRI Net (1080p)" group-title="ID-OFFICIAL",RRI Net (1080p)
+https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTM ASEAN" group-title="ID-OFFICIAL",RTM ASEAN
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Salam TV (720p)" group-title="ID-OFFICIAL",Salam TV (720p)
+https://live.salamtelevisi.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Salira TV (720p)" group-title="ID-OFFICIAL",Salira TV (720p)
+https://live.salira.tv/p/3870/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sampit TV (720p) [Not 24/7]" group-title="ID-OFFICIAL",Sampit TV (720p) [Not 24/7]
+https://sampit-tv.siar.us/live/sampit-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangaji TV (720p)" group-title="ID-OFFICIAL",Sangaji TV (720p)
+https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" group-title="ID-OFFICIAL",SCTV
+http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Selaparang TV (720p) [Not 24/7]" group-title="ID-OFFICIAL",Selaparang TV (720p) [Not 24/7]
+https://selaparangtv.siar.us/live/selaparangtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Semarang TV (720p)" group-title="ID-OFFICIAL",Semarang TV (720p)
+http://116.254.112.74/hls/cakralive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Simpang5 TV (360p) [Not 24/7]" group-title="ID-OFFICIAL",Simpang5 TV (360p) [Not 24/7]
+http://122.248.43.242:1935/SIMPANG5TV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SMTV (720p)" group-title="ID-OFFICIAL",SMTV (720p)
+https://e.siar.us/live/smtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sriwijaya TV (720p) [Not 24/7]" group-title="ID-OFFICIAL",Sriwijaya TV (720p) [Not 24/7]
+https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stara TV (720p)" group-title="ID-OFFICIAL",Stara TV (720p)
+https://stream.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stara TV Bandung (1080p)" group-title="ID-OFFICIAL",Stara TV Bandung (1080p)
+https://bandung.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stara TV Bojonegoro (720p)" group-title="ID-OFFICIAL",Stara TV Bojonegoro (720p)
+https://bojonegoro.staratv.id/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stara TV Cianjur (720p)" group-title="ID-OFFICIAL",Stara TV Cianjur (720p)
+https://cianjur.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stara TV Jakarta (1080p)" group-title="ID-OFFICIAL",Stara TV Jakarta (1080p)
+https://jakarta.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stara TV Malang (1080p)" group-title="ID-OFFICIAL",Stara TV Malang (1080p)
+https://malang.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stara TV Parahyangan (720p)" group-title="ID-OFFICIAL",Stara TV Parahyangan (720p)
+https://parahyangan.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STV (Indonesia) (720p) [Not 24/7]" group-title="ID-OFFICIAL",STV (Indonesia) (720p) [Not 24/7]
+http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Suara Surabaya Visual Radio (720p)" group-title="ID-OFFICIAL",Suara Surabaya Visual Radio (720p)
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sultra TV (720p) [Not 24/7]" group-title="ID-OFFICIAL",Sultra TV (720p) [Not 24/7]
+http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Surau TV (720p)" group-title="ID-OFFICIAL",Surau TV (720p)
+http://ikitv.sqn.at:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TATV (720p) [Not 24/7]" group-title="ID-OFFICIAL",TATV (720p) [Not 24/7]
+https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tegar TV Lampung (480p)" group-title="ID-OFFICIAL",Tegar TV Lampung (480p)
+http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Indonesia Channel (1080p)" group-title="ID-OFFICIAL",The Indonesia Channel (1080p)
+https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 9 Nusantara (720p)" group-title="ID-OFFICIAL",TV 9 Nusantara (720p)
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Mu (720p) [Not 24/7]" group-title="ID-OFFICIAL",TV Mu (720p) [Not 24/7]
+https://e.siar.us/live/tvmu.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Tabalong (720p) [Not 24/7]" group-title="ID-OFFICIAL",TV Tabalong (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVKU (720p)" group-title="ID-OFFICIAL",TVKU (720p)
+https://tvku.tv/hlsstream/hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tvOne [Geo-blocked]" group-title="ID-OFFICIAL",tvOne [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR Parlemen (720p) [Not 24/7]" group-title="ID-OFFICIAL",TVR Parlemen (720p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI (480p) [Geo-blocked]" group-title="ID-OFFICIAL",TVRI (480p) [Geo-blocked]
+https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Aceh (720p)" group-title="ID-OFFICIAL",TVRI Aceh (720p)
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Bali (480p)" group-title="ID-OFFICIAL",TVRI Bali (480p)
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Bangka Belitung (480p)" group-title="ID-OFFICIAL",TVRI Bangka Belitung (480p)
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Bengkulu (480p)" group-title="ID-OFFICIAL",TVRI Bengkulu (480p)
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Central Java (720p)" group-title="ID-OFFICIAL",TVRI Central Java (720p)
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Central Kalimantan (480p)" group-title="ID-OFFICIAL",TVRI Central Kalimantan (480p)
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Central Sulawesi (720p)" group-title="ID-OFFICIAL",TVRI Central Sulawesi (720p)
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI East Java (720p)" group-title="ID-OFFICIAL",TVRI East Java (720p)
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI East Kalimantan (720p)" group-title="ID-OFFICIAL",TVRI East Kalimantan (720p)
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI East Nusa Tenggara (480p)" group-title="ID-OFFICIAL",TVRI East Nusa Tenggara (480p)
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Gorontalo (480p)" group-title="ID-OFFICIAL",TVRI Gorontalo (480p)
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI HD (1080i)" group-title="ID-OFFICIAL",TVRI HD (1080i)
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Jakarta (576i) [Not 24/7]" group-title="ID-OFFICIAL",TVRI Jakarta (576i) [Not 24/7]
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Jambi (720p) [Not 24/7]" group-title="ID-OFFICIAL",TVRI Jambi (720p) [Not 24/7]
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Lampung (720p)" group-title="ID-OFFICIAL",TVRI Lampung (720p)
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Maluku (480p)" group-title="ID-OFFICIAL",TVRI Maluku (480p)
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI North Sulawesi (1080p)" group-title="ID-OFFICIAL",TVRI North Sulawesi (1080p)
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI North Sumatra (1080p)" group-title="ID-OFFICIAL",TVRI North Sumatra (1080p)
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Papua (480p)" group-title="ID-OFFICIAL",TVRI Papua (480p)
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Riau (720p) [Not 24/7]" group-title="ID-OFFICIAL",TVRI Riau (720p) [Not 24/7]
+https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI South Kalimantan (720p)" group-title="ID-OFFICIAL",TVRI South Kalimantan (720p)
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI South Sulawesi (480p)" group-title="ID-OFFICIAL",TVRI South Sulawesi (480p)
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI South Sumatra (480p)" group-title="ID-OFFICIAL",TVRI South Sumatra (480p)
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Southeast Sulawesi (480p)" group-title="ID-OFFICIAL",TVRI Southeast Sulawesi (480p)
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI West Java (480p)" group-title="ID-OFFICIAL",TVRI West Java (480p)
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI West Kalimantan (480p)" group-title="ID-OFFICIAL",TVRI West Kalimantan (480p)
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI West Nusa Tenggara (720p)" group-title="ID-OFFICIAL",TVRI West Nusa Tenggara (720p)
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI West Papua (1080p)" group-title="ID-OFFICIAL",TVRI West Papua (1080p)
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI West Sulawesi (720p)" group-title="ID-OFFICIAL",TVRI West Sulawesi (720p)
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI West Sumatra (720p)" group-title="ID-OFFICIAL",TVRI West Sumatra (720p)
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Yogyakarta (720p)" group-title="ID-OFFICIAL",TVRI Yogyakarta (720p)
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sport (1080p)" group-title="ID-OFFICIAL",TVRI Sport (1080p)
+http://202.150.172.59/TVRISport/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI World (1080p)" group-title="ID-OFFICIAL",TVRI World (1080p)
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="U Channel" group-title="ID-OFFICIAL",U Channel
+https://srs.u-channel.tv/live/uchannel-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UGTV (720p)" group-title="ID-OFFICIAL",UGTV (720p)
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USM TV (1080p)" group-title="ID-OFFICIAL",USM TV (1080p)
+https://play.fsa-stream.my.id/hls/siaran.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VTV (Indonesia) (720p)" group-title="ID-OFFICIAL",VTV (Indonesia) (720p)
+https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VTV (Indonesia) HD (1080p)" group-title="ID-OFFICIAL",VTV (Indonesia) HD (1080p)
+http://ikitv.sqn.at:8000/play/a023/index.m3u8
