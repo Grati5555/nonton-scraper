@@ -1,10 +1,10 @@
 import httpx
 
-TAG = "ID-OFFICIAL"
+TAG = "IPTV-PRO"
 
 
 async def scrape():
-  # Menggunakan direktori resmi IPTV-org untuk Indonesia yang selalu aktif
+  # Menggunakan tautan sumber yang ingin Anda gunakan
   url = "https://iptv-org.github.io/iptv/countries/id.m3u"
   results = []
 
@@ -22,21 +22,36 @@ async def scrape():
         return results
 
       lines = response.text.splitlines()
-      current_name = None
+      current_block = []
 
       for line in lines:
-        line = line.strip()
-        if line.startswith("#EXTINF:"):
-          if "," in line:
-            current_name = line.split(",")[-1].strip()
-        elif line and not line.startswith("#") and current_name:
-          # Menyaring channel nasional utama agar langsung masuk playlist
+        line_str = line.strip()
+        if not line_str:
+          continue
+
+        # Menangkap baris EXTINF
+        if line_str.startswith("#EXTINF:"):
+          current_block = [line_str]
+        # Menangkap baris ekstensi tambahan pemutar secara utuh
+        elif line_str.startswith(
+            ("#EXTVLCOPT:", "#KODIPROP:", "##", "#EXT-X-")
+        ):
+          current_block.append(line_str)
+        # Baris URL stream
+        elif not line_str.startswith("#") and current_block:
+          extra_tags = "\n".join(current_block)
+          name = (
+              current_block[0].split(",")[-1].strip()
+              if "," in current_block[0]
+              else "Channel"
+          )
+
           results.append({
-              "name": current_name,
-              "url": line,
+              "name": name,
+              "url": f"{extra_tags}\n{line_str}",
               "tag": TAG,
           })
-          current_name = None
+          current_block = []
     except Exception as e:
       print(f"Error: {e}")
 
