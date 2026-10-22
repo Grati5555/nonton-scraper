@@ -1,1 +1,293 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - AFBTV Kupang (1080p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - AFBTV Kupang (1080p) [Not 24/7]
+https://afbtv.siar.us/live/afbtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Ahsan TV" group-title="CUBMU-INDONESIA",CubMu - Ahsan TV
+https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Ajwa TV (1080p)" group-title="CUBMU-INDONESIA",CubMu - Ajwa TV (1080p)
+http://ikitv.sqn.at:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - AKTV (1080p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - AKTV (1080p) [Not 24/7]
+https://akativi.siar.us/live/akativi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Al-Bahjah TV (1080p)" group-title="CUBMU-INDONESIA",CubMu - Al-Bahjah TV (1080p)
+http://202.150.161.117:8000/play/AlBahjahTV
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Al-Iman TV (Indonesia) (720p)" group-title="CUBMU-INDONESIA",CubMu - Al-Iman TV (Indonesia) (720p)
+https://tv.aliman.id/aliman/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Angel TV Indonesia (720p)" group-title="CUBMU-INDONESIA",CubMu - Angel TV Indonesia (720p)
+https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - ANTV (Indonesia) (720p)" group-title="CUBMU-INDONESIA",CubMu - ANTV (Indonesia) (720p)
+http://103.58.160.157:8278/720-ANTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Ashiil TV (480p)" group-title="CUBMU-INDONESIA",CubMu - Ashiil TV (480p)
+https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Astha TV (1080p)" group-title="CUBMU-INDONESIA",CubMu - Astha TV (1080p)
+https://hgmtv.com:2020/hls/asthalive/asthalive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Astro Blitar TV (720p)" group-title="CUBMU-INDONESIA",CubMu - Astro Blitar TV (720p)
+https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Atambua TV (720p)" group-title="CUBMU-INDONESIA",CubMu - Atambua TV (720p)
+http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Balikpapan TV (720p)" group-title="CUBMU-INDONESIA",CubMu - Balikpapan TV (720p)
+http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Bandung TV (360p)" group-title="CUBMU-INDONESIA",CubMu - Bandung TV (360p)
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Banjar TV (720p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - Banjar TV (720p) [Not 24/7]
+https://banjartv.siar.us/banjartv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Banten TV (720p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - Banten TV (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Batam TV (480p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - Batam TV (480p) [Not 24/7]
+http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - BMS TV (720p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - BMS TV (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - BRTV (Indonesia) (720p)" group-title="CUBMU-INDONESIA",CubMu - BRTV (Indonesia) (720p)
+https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - BTV (Indonesia) (1080p)" group-title="CUBMU-INDONESIA",CubMu - BTV (Indonesia) (1080p)
+https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Bungo TV (480p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - Bungo TV (480p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Caruban TV (1080p)" group-title="CUBMU-INDONESIA",CubMu - Caruban TV (1080p)
+https://stream.carubantv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Celebes TV [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - Celebes TV [Not 24/7]
+https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - DAAI TV" group-title="CUBMU-INDONESIA",CubMu - DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Davika TV (480p)" group-title="CUBMU-INDONESIA",CubMu - Davika TV (480p)
+https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Dhamma TV (720p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - Dhamma TV (720p) [Not 24/7]
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Dhoho TV (720p)" group-title="CUBMU-INDONESIA",CubMu - Dhoho TV (720p)
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - DMI TV (576i)" group-title="CUBMU-INDONESIA",CubMu - DMI TV (576i)
+https://tvstreamcast.com/tawaftv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - dTVi" group-title="CUBMU-INDONESIA",CubMu - dTVi
+https://e.siar.us/live/dtvi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Duta TV (360p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - Duta TV (360p) [Not 24/7]
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Efarina TV (720p)" group-title="CUBMU-INDONESIA",CubMu - Efarina TV (720p)
+https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Fajar TV (720p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - Fajar TV (720p) [Not 24/7]
+http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - FTV (Taiwan) (720p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - FTV (Taiwan) (720p) [Not 24/7]
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Garuda TV (1080p)" group-title="CUBMU-INDONESIA",CubMu - Garuda TV (1080p)
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - GTV (Indonesia) HD (1080p)" group-title="CUBMU-INDONESIA",CubMu - GTV (Indonesia) HD (1080p)
+http://202.150.172.59/GTVHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Huma Betang TV (720p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - Huma Betang TV (720p) [Not 24/7]
+https://v3.siar.us/humabetangtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Indonesiana.TV (720p)" group-title="CUBMU-INDONESIA",CubMu - Indonesiana.TV (720p)
+https://tvstreamcast.com/indonesiana.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Indosiar HD (1080p)" group-title="CUBMU-INDONESIA",CubMu - Indosiar HD (1080p)
+http://202.150.172.59/Indosiar/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Jak TV [Geo-blocked]" group-title="CUBMU-INDONESIA",CubMu - Jak TV [Geo-blocked]
+https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Jambi TV" group-title="CUBMU-INDONESIA",CubMu - Jambi TV
+https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Jawa Pos TV Jakarta (720p)" group-title="CUBMU-INDONESIA",CubMu - Jawa Pos TV Jakarta (720p)
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Jek TV (720p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - Jek TV (720p) [Not 24/7]
+http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Jogja Istimewa TV (720p)" group-title="CUBMU-INDONESIA",CubMu - Jogja Istimewa TV (720p)
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Jogja TV (720p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - Jogja TV (720p) [Not 24/7]
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - JTV (720p)" group-title="CUBMU-INDONESIA",CubMu - JTV (720p)
+http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - JTV Kediri (1080p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - JTV Kediri (1080p) [Not 24/7]
+http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - JTV Madiun" group-title="CUBMU-INDONESIA",CubMu - JTV Madiun
+http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - JTV Madura (480p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - JTV Madura (480p) [Not 24/7]
+http://122.248.43.242:1935/JTVMADURA/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - JTV Malang" group-title="CUBMU-INDONESIA",CubMu - JTV Malang
+http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Kawanua TV (720p)" group-title="CUBMU-INDONESIA",CubMu - Kawanua TV (720p)
+http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Kids TV" group-title="CUBMU-INDONESIA",CubMu - Kids TV
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Kilisuci TV" group-title="CUBMU-INDONESIA",CubMu - Kilisuci TV
+https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Kompas TV [Geo-blocked]" group-title="CUBMU-INDONESIA",CubMu - Kompas TV [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - KTV (Indonesia) (720p)" group-title="CUBMU-INDONESIA",CubMu - KTV (Indonesia) (720p)
+https://flv.intechmedia.net/live/ch118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Lingkar TV" group-title="CUBMU-INDONESIA",CubMu - Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Madani TV (720p)" group-title="CUBMU-INDONESIA",CubMu - Madani TV (720p)
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Madu TV (1080p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - Madu TV (1080p) [Not 24/7]
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Matrix TV Yogyakarta (720p)" group-title="CUBMU-INDONESIA",CubMu - Matrix TV Yogyakarta (720p)
+https://stream.matrixtv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - MBG TV (1080p)" group-title="CUBMU-INDONESIA",CubMu - MBG TV (1080p)
+https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - MDTV (1080p)" group-title="CUBMU-INDONESIA",CubMu - MDTV (1080p)
+https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Metro TV (Indonesia)" group-title="CUBMU-INDONESIA",CubMu - Metro TV (Indonesia)
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - MGI TV (720p) [Geo-blocked]" group-title="CUBMU-INDONESIA",CubMu - MGI TV (720p) [Geo-blocked]
+https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - MGSTV (360p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - MGSTV (360p) [Not 24/7]
+https://mgstv.siar.us/live/mgstv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - MQTV (720p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - MQTV (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Naajiya TV (720p)" group-title="CUBMU-INDONESIA",CubMu - Naajiya TV (720p)
+https://www.naajiyatv.com/live/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Nabawi TV (720p)" group-title="CUBMU-INDONESIA",CubMu - Nabawi TV (720p)
+http://202.150.161.117:8000/play/NabawiTV
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Nusantara TV (1080p)" group-title="CUBMU-INDONESIA",CubMu - Nusantara TV (1080p)
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Online TV Nusantara (720p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - Online TV Nusantara (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Padang TV (720p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - Padang TV (720p) [Not 24/7]
+http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - PKTV (480p)" group-title="CUBMU-INDONESIA",CubMu - PKTV (480p)
+https://streaming.id18.tunnel.my.id/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - PONTV (720p)" group-title="CUBMU-INDONESIA",CubMu - PONTV (720p)
+http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Puja TV Aceh (1080p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - Puja TV Aceh (1080p) [Not 24/7]
+https://pujatv.siar.us/live/pujatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Radar Lampung TV (480p)" group-title="CUBMU-INDONESIA",CubMu - Radar Lampung TV (480p)
+https://www.streaming.radartv.co.id/hls/test.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Radar Tasikmalaya TV (720p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - Radar Tasikmalaya TV (720p) [Not 24/7]
+https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - RBTV Jogja (1080p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - RBTV Jogja (1080p) [Not 24/7]
+https://official.rbtvjogja.tv/live/mychannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - RCTI HD (1080p)" group-title="CUBMU-INDONESIA",CubMu - RCTI HD (1080p)
+http://202.150.172.59/RCTIHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - RCTV (Indonesia) (720p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - RCTV (Indonesia) (720p) [Not 24/7]
+https://v10.siar.us/rctv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Riau TV (1080p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - Riau TV (1080p) [Not 24/7]
+http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Rinjani TV" group-title="CUBMU-INDONESIA",CubMu - Rinjani TV
+https://rinjanitv.cloud/hls/tvkabel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Rodja TV (720p)" group-title="CUBMU-INDONESIA",CubMu - Rodja TV (720p)
+https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Salam TV (720p)" group-title="CUBMU-INDONESIA",CubMu - Salam TV (720p)
+https://live.salamtelevisi.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Salira TV (720p)" group-title="CUBMU-INDONESIA",CubMu - Salira TV (720p)
+https://live.salira.tv/p/3870/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Sampit TV (720p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - Sampit TV (720p) [Not 24/7]
+https://sampit-tv.siar.us/live/sampit-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Sangaji TV (720p)" group-title="CUBMU-INDONESIA",CubMu - Sangaji TV (720p)
+https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - SCTV" group-title="CUBMU-INDONESIA",CubMu - SCTV
+http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Selaparang TV (720p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - Selaparang TV (720p) [Not 24/7]
+https://selaparangtv.siar.us/live/selaparangtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Semarang TV (720p)" group-title="CUBMU-INDONESIA",CubMu - Semarang TV (720p)
+http://116.254.112.74/hls/cakralive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Simpang5 TV (360p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - Simpang5 TV (360p) [Not 24/7]
+http://122.248.43.242:1935/SIMPANG5TV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - SMTV (720p)" group-title="CUBMU-INDONESIA",CubMu - SMTV (720p)
+https://e.siar.us/live/smtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Sriwijaya TV (720p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - Sriwijaya TV (720p) [Not 24/7]
+https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Stara TV (720p)" group-title="CUBMU-INDONESIA",CubMu - Stara TV (720p)
+https://stream.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Stara TV Bandung (1080p)" group-title="CUBMU-INDONESIA",CubMu - Stara TV Bandung (1080p)
+https://bandung.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Stara TV Bojonegoro (720p)" group-title="CUBMU-INDONESIA",CubMu - Stara TV Bojonegoro (720p)
+https://bojonegoro.staratv.id/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Stara TV Cianjur (720p)" group-title="CUBMU-INDONESIA",CubMu - Stara TV Cianjur (720p)
+https://cianjur.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Stara TV Jakarta (1080p)" group-title="CUBMU-INDONESIA",CubMu - Stara TV Jakarta (1080p)
+https://jakarta.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Stara TV Malang (1080p)" group-title="CUBMU-INDONESIA",CubMu - Stara TV Malang (1080p)
+https://malang.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Stara TV Parahyangan (720p)" group-title="CUBMU-INDONESIA",CubMu - Stara TV Parahyangan (720p)
+https://parahyangan.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - STV (Indonesia) (720p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - STV (Indonesia) (720p) [Not 24/7]
+http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Sultra TV (720p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - Sultra TV (720p) [Not 24/7]
+http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Surau TV (720p)" group-title="CUBMU-INDONESIA",CubMu - Surau TV (720p)
+http://ikitv.sqn.at:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TATV (720p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - TATV (720p) [Not 24/7]
+https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - Tegar TV Lampung (480p)" group-title="CUBMU-INDONESIA",CubMu - Tegar TV Lampung (480p)
+http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TV 9 Nusantara (720p)" group-title="CUBMU-INDONESIA",CubMu - TV 9 Nusantara (720p)
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TV Mu (720p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - TV Mu (720p) [Not 24/7]
+https://e.siar.us/live/tvmu.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TV Tabalong (720p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - TV Tabalong (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVKU (720p)" group-title="CUBMU-INDONESIA",CubMu - TVKU (720p)
+https://tvku.tv/hlsstream/hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - tvOne [Geo-blocked]" group-title="CUBMU-INDONESIA",CubMu - tvOne [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVR Parlemen (720p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - TVR Parlemen (720p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI (480p) [Geo-blocked]" group-title="CUBMU-INDONESIA",CubMu - TVRI (480p) [Geo-blocked]
+https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI Aceh (720p)" group-title="CUBMU-INDONESIA",CubMu - TVRI Aceh (720p)
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI Bali (480p)" group-title="CUBMU-INDONESIA",CubMu - TVRI Bali (480p)
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI Bangka Belitung (480p)" group-title="CUBMU-INDONESIA",CubMu - TVRI Bangka Belitung (480p)
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI Bengkulu (480p)" group-title="CUBMU-INDONESIA",CubMu - TVRI Bengkulu (480p)
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI Central Java (720p)" group-title="CUBMU-INDONESIA",CubMu - TVRI Central Java (720p)
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI Central Kalimantan (480p)" group-title="CUBMU-INDONESIA",CubMu - TVRI Central Kalimantan (480p)
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI Central Sulawesi (720p)" group-title="CUBMU-INDONESIA",CubMu - TVRI Central Sulawesi (720p)
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI East Java (720p)" group-title="CUBMU-INDONESIA",CubMu - TVRI East Java (720p)
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI East Kalimantan (720p)" group-title="CUBMU-INDONESIA",CubMu - TVRI East Kalimantan (720p)
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI East Nusa Tenggara (480p)" group-title="CUBMU-INDONESIA",CubMu - TVRI East Nusa Tenggara (480p)
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI Gorontalo (480p)" group-title="CUBMU-INDONESIA",CubMu - TVRI Gorontalo (480p)
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI HD (1080i)" group-title="CUBMU-INDONESIA",CubMu - TVRI HD (1080i)
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI Jakarta (576i) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - TVRI Jakarta (576i) [Not 24/7]
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI Jambi (720p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - TVRI Jambi (720p) [Not 24/7]
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI Lampung (720p)" group-title="CUBMU-INDONESIA",CubMu - TVRI Lampung (720p)
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI Maluku (480p)" group-title="CUBMU-INDONESIA",CubMu - TVRI Maluku (480p)
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI North Sulawesi (1080p)" group-title="CUBMU-INDONESIA",CubMu - TVRI North Sulawesi (1080p)
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI North Sumatra (1080p)" group-title="CUBMU-INDONESIA",CubMu - TVRI North Sumatra (1080p)
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI Papua (480p)" group-title="CUBMU-INDONESIA",CubMu - TVRI Papua (480p)
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI Riau (720p) [Not 24/7]" group-title="CUBMU-INDONESIA",CubMu - TVRI Riau (720p) [Not 24/7]
+https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI South Kalimantan (720p)" group-title="CUBMU-INDONESIA",CubMu - TVRI South Kalimantan (720p)
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI South Sulawesi (480p)" group-title="CUBMU-INDONESIA",CubMu - TVRI South Sulawesi (480p)
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI South Sumatra (480p)" group-title="CUBMU-INDONESIA",CubMu - TVRI South Sumatra (480p)
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI Southeast Sulawesi (480p)" group-title="CUBMU-INDONESIA",CubMu - TVRI Southeast Sulawesi (480p)
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI West Java (480p)" group-title="CUBMU-INDONESIA",CubMu - TVRI West Java (480p)
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI West Kalimantan (480p)" group-title="CUBMU-INDONESIA",CubMu - TVRI West Kalimantan (480p)
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI West Nusa Tenggara (720p)" group-title="CUBMU-INDONESIA",CubMu - TVRI West Nusa Tenggara (720p)
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI West Papua (1080p)" group-title="CUBMU-INDONESIA",CubMu - TVRI West Papua (1080p)
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI West Sulawesi (720p)" group-title="CUBMU-INDONESIA",CubMu - TVRI West Sulawesi (720p)
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI West Sumatra (720p)" group-title="CUBMU-INDONESIA",CubMu - TVRI West Sumatra (720p)
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI Yogyakarta (720p)" group-title="CUBMU-INDONESIA",CubMu - TVRI Yogyakarta (720p)
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI Sport (1080p)" group-title="CUBMU-INDONESIA",CubMu - TVRI Sport (1080p)
+http://202.150.172.59/TVRISport/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - TVRI World (1080p)" group-title="CUBMU-INDONESIA",CubMu - TVRI World (1080p)
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - UGTV (720p)" group-title="CUBMU-INDONESIA",CubMu - UGTV (720p)
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - USM TV (1080p)" group-title="CUBMU-INDONESIA",CubMu - USM TV (1080p)
+https://play.fsa-stream.my.id/hls/siaran.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - VTV (Indonesia) (720p)" group-title="CUBMU-INDONESIA",CubMu - VTV (Indonesia) (720p)
+https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CubMu - VTV (Indonesia) HD (1080p)" group-title="CUBMU-INDONESIA",CubMu - VTV (Indonesia) HD (1080p)
+http://ikitv.sqn.at:8000/play/a023/index.m3u8
